@@ -1,0 +1,19 @@
+.Heading {
+    background-color: lightgray;
+    color: darkcyan;
+}
+
+.Introduction {
+    background-color: black;
+    color: white;
+}
+
+.Explanations {
+    background-color: lightgreen;
+    color: blue;
+}
+
+.Resources {
+    background-color: lightcyan;
+    color: darkgreen;
+}
